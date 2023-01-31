@@ -1,8 +1,12 @@
  ## Plugins Created
  <a href="https://github.com/AlvinHere/TopMoneyUI-PM4">
-  TopMoneyUI | 4.0.0
+ | TopMoneyUI 4.0.0 |
+ <a href="https://github.com/AlvinHere/ItemID">
+  ItemID 4.0.0 |
+ <a href="https://github.com/AlvinHere/TopMineLeaderboard">
+  TopMineLB 4.0.0 |
   </a>
- 
+
  
  ## &#x1f4c8; Stats
 <a href="https://github.com/AlvinHere">
